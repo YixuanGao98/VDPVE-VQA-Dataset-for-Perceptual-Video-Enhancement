@@ -31,7 +31,7 @@ MOS Scores: train.txt (Each line contains the enhanced video’s name and its co
 
 # Citation
 
-Kindly cite our paper upon using this repository:
+Kindly cite our papers upon using this repository:
 
 ```
 @inproceedings{gao2023vdpve,
